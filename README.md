@@ -1,7 +1,7 @@
 <h1 align = "center">Collin Schuster</h1>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=900&pause=400&center=true&multiline=true&width=470&height=190&lines=I'm+a+junior+at+Northwestern+University+;Studying+Mechanical+Engineering;passionate+in+learning+how+to+program;+as+well+as+integrate+mechanical%2C;++electric%2C+and+electronic+components" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=900&pause=400&center=true&multiline=true&width=470&height=190&lines=I'm+a+senior+at+Northwestern+University+;Studying+Mechanical+Engineering;passionate+in+learning+how+to+program;+as+well+as+integrate+mechanical%2C;++electric%2C+and+electronic+components" alt="Typing SVG" /></a>
 </p>
 
 **`Mechanical Engineering (Coder/Student-Athelete/Designer)`**
